@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidan Shilling</h1>
 <h3 align="center">A software engineer from Pittsburgh, PA</h3>
 
-- 🔭 I’m currently working on [my senior year of college](https://drexel.edu/)
+- 🔭 I’m currently working on my senior year of college at [Drexel](https://drexel.edu/)
 
 - 🌱 I’m currently learning **Rocket.rs & Next.js**
 
