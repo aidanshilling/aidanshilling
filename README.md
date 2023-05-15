@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amshilling@proton.me**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing](https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing)
 
 - ⚡ Fun fact **I do street photography, check me out on Instagram**
 
