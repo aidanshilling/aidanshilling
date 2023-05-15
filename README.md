@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aidan Shilling</h1>
 <h3 align="center">A software engineer from Pittsburgh, PA</h3>
 
-- 🔭 I’m currently working on [my senior year of college.](https://drexel.edu/)
+- 🔭 I’m currently working on [my senior year of college](https://drexel.edu/)
 
 - 🌱 I’m currently learning **Rocket.rs & Next.js**
 
-- 💬 Ask me about **react, rust, or fantasy novels.**
+- 💬 Ask me about **react, rust, or fantasy novels**
 
 - 📫 How to reach me **amshilling@proton.me**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing](https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing)
 
-- ⚡ Fun fact **I do street photography, check me out on Instagram.**
+- ⚡ Fun fact **I do street photography, check me out on Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
