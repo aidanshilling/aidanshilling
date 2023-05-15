@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidan Shilling</h1>
-<h3 align="center">A foolhardy software engineer from Pittsburgh, PA</h3>
+<h3 align="center">A steadfast software engineer from Pittsburgh, PA</h3>
 
 - 🔭 I’m currently working on [my senior year of college.](https://drexel.edu/)
 
