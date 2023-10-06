@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aidan Shilling</h1>
+<h1 align="center">Aidan Shilling</h1>
 <h3 align="center">Engineer from Pittsburgh, PA</h3>
 
 - 🔭 I’m an engineer at [AMD](https://www.amd.com/) (All thoughts are my own.)
