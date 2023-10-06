@@ -1,17 +1,17 @@
 <h1>Aidan Shilling</h1>
 <h3>Engineer from Pittsburgh, PA</h3>
 
-- 🔭 I’m an engineer at [AMD](https://www.amd.com/) (All thoughts are my own.)
+🔭 I’m an engineer at [AMD](https://www.amd.com/) (All thoughts are my own.)
 
-- 🌱 I’m currently learning **Rust & HTMX**
+🌱 I’m currently learning **Rust & HTMX**
 
-- 💬 Ask me about **react, rust, or fantasy novels**
+💬 Ask me about **react, rust, or fantasy novels**
 
-- 📫 How to reach me **amshilling@proton.me**
+📫 How to reach me **amshilling@proton.me**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing)
+📄 Know about my experiences [here](https://docs.google.com/document/d/1QCd7VxkFj8qhAXTiob__0YAUwQWc_z5W0SqfpMYDqJo/edit?usp=sharing)
 
-- ⚡ Fun fact **I do street photography, check me out on [Instagram](https://instagram.com/aidan_shilling/)**
+⚡ Fun fact **I do street photography, check me out on [Instagram](https://instagram.com/aidan_shilling/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
