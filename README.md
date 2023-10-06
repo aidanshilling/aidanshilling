@@ -1,4 +1,3 @@
-# Aidan Shilling
 ### Engineer from Pittsburgh, PA
 
 ---
