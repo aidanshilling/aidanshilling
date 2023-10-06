@@ -1,6 +1,7 @@
 <h1>Aidan Shilling</h1>
 <h3>Engineer from Pittsburgh, PA</h3>
 
+---
 🔭 I’m an engineer at [AMD](https://www.amd.com/) (All thoughts are my own.)
 
 🌱 I’m currently learning **Rust & HTMX**
@@ -13,6 +14,7 @@
 
 ⚡ Fun fact **I do street photography, check me out on [Instagram](https://instagram.com/aidan_shilling/)**
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aidanshilling/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidanshilling/" height="30" width="40" /></a>
