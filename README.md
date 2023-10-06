@@ -1,5 +1,5 @@
-<h2>Aidan Shilling</h2>
-<h3>Engineer from Pittsburgh, PA</h3>
+# Aidan Shilling
+### Engineer from Pittsburgh, PA
 
 ---
 🔭 I’m an engineer at [AMD](https://www.amd.com/) (All thoughts are my own.)
