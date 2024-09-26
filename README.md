@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Rust & HTMX**
 
-💬 Ask me about **react, rust, or fantasy novels**
+💬 Ask me about **semiconductors, rust, or fantasy novels**
 
 📫 How to reach me **amshilling@proton.me**
 
