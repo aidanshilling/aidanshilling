@@ -9,7 +9,7 @@
 
 📫 How to reach me **amshilling@proton.me**
 
-⚡ Fun fact **I do street photography, check me out on [Instagram](https://instagram.com/aidan_shilling/)**
+⚡ Fun fact **I do photography, check me out on [Instagram](https://instagram.com/aidan_shilling/)**
 
 ---
 <h3 align="left">Connect with me:</h3>
