@@ -1,11 +1,11 @@
 ### Engineer from Pittsburgh, PA
 
 ---
-🔭 I’m an engineer at [AMD](https://www.amd.com/) (All thoughts are my own.)
+🔭 Ex-engineer at [AMD](https://www.amd.com/), Currently a Master's Student at the University of Edinburgh
 
-🌱 I’m currently learning **Rust & HTMX**
+🌱 I’m currently learning **Distributed Systems & Quantum Information**
 
-💬 Ask me about **semiconductors, rust, or fantasy novels**
+💬 Ask me about **semiconductors, climbing, or fantasy novels**
 
 📫 How to reach me **amshilling@proton.me**
 
