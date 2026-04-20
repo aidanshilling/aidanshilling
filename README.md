@@ -3,7 +3,7 @@
 ---
 🔭 Ex-engineer at [AMD](https://www.amd.com/), Currently a Master's Student at the University of Edinburgh
 
-🌱 I’m currently learning **Distributed Systems & Quantum Information**
+🌱 I’m currently learning **Compilers, Systems & Quantum Information**
 
 💬 Ask me about **semiconductors, climbing, or fantasy novels**
 
